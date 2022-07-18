@@ -1,0 +1,15 @@
+{
+    "name": "replit-discord-bot",
+    "version": "0.0.0",
+    "description": "discord bot sample on replit",
+    "main": "main.js",
+    "dependencies": {
+        "discord.js": "^13.0.6",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node main.js",
+        "test": "node main.js"
+    }
+}
